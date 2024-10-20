@@ -1,6 +1,6 @@
 The Parking Lot Management System is a comprehensive solution designed to streamline the parking process, allowing users to manage vehicle entries, exits, and parking tickets efficiently. This system is developed using Java, JDBC, and MySQL, providing a robust backend to support various functionalities.
 
-**Technologies Used**< br / > 
+**Technologies Used**<br/> 
 Java: Core programming language used for development.< br / > 
 JDBC: Java Database Connectivity for interacting with the MySQL database.< br / > 
 MySQL: Database management system to store vehicle and parking ticket data.< br / > 
