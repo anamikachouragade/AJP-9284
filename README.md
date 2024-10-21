@@ -11,9 +11,25 @@ Run the main application class to start the Parking Lot Management System.<br/>
 Follow the on-screen prompts to manage vehicles, parking tickets, and slots.<br/>
 
 **Functions Overview**<br/>
-->Login and registration for customer<br/>
-->Managing Customer,Vehicle and Parking lot<br/> 
-->Adding new vehicles to the parking lot<br/> 
-->Displaying the list of parked user vehicles<br/>
-->Assigning parking slots to vehicles<br/> 
-->Removing vehicles from the parking lot<br/> 
+1.Login and registration for customer<br/>
+2.Managing Customer,Vehicle and Parking lot<br/> 
+3.Adding new vehicles to the parking lot<br/> 
+4.Assigning parking slots to vehicles<br/> 
+5.Removing vehicles from the parking lot<br/> 
+6.Displaying the list of parked user vehicles<br/>
+
+
+Main Menu:<br/>   
+1.Admin<br/> 
+2.Customer<br/> 
+
+Admin:<br/> 
+1. Manage Customers (Create/Update/View/Delete Customer)   <br/>    
+2. Manage Parking Slots (Add/Assign/Release Parking Slots, View Available/Assigned Parking Slots)<br/> 
+3. Manage Vehicles (Add/Remove Vehicle, View Vehicle by Number, View All Vehicles)<br/> 
+5. Update Password<br/> 
+
+Customer:<br/> 
+1. View Available Parking Slots<br/> 
+2. Contact admin for getting Parking Slot<br/> 
+3. Update Password<br/> 
