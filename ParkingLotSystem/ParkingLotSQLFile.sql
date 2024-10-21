@@ -31,7 +31,9 @@ CREATE TABLE Vehicle (
 -- Table for Parking Slots
 CREATE TABLE ParkingSlot (
     id INT PRIMARY KEY AUTO_INCREMENT,
-    is_available BOOLEAN DEFAULT TRUE
+    is_available BOOLEAN DEFAULT TRUE,
+    vehicleNumber VARCHAR(20),  -- Column to store the assigned vehicle's number
+    FOREIGN KEY (vehicleNumber) REFERENCES Vehicle(vehicleNumber) ON DELETE SET NULL
 );
 
 
